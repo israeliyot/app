@@ -1,0 +1,10 @@
+{
+  "name": "אפליקציית ישראליות",
+  "short_name": "ישראליות",
+  "description": "ישראליות היא רשת חברתית המיועדת למבוגרים בלבד",
+  "start_url": "/app/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0040",
+  "orientation": "portrait"
+}
